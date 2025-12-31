@@ -2,7 +2,7 @@
 
 Langg is a dictionary simulation (built with Java) designed to demonstrate Data Structures and Algorithms (DSA) concepts (Taught at TIU). 
 
-This project implements a **Hybrid Storage System**, storing words in both a `HashMap` and a `TreeSet` for comparison.
+This project stores words in both a `HashMap` and a `TreeSet` for comparison.
 
 ## Project Structure
 
