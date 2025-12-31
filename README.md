@@ -1,6 +1,6 @@
 # Langg (Simple Dictionary)
 
-Langg is a dictionary simulation (built with Java) designed to demonstrate Data Structures and Algorithms (DSA) concepts that we studied at Tishk International University (TIU). 
+Langg is a dictionary simulation (built with Java) designed to demonstrate Data Structures and Algorithms (DSA) concepts (Taught at TIU). 
 
 This project implements a **Hybrid Storage System**, storing words in both a `HashMap` and a `TreeSet` for comparison.
 
