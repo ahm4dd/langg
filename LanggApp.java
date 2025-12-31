@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LingoVaultApp {
+public class LanggApp {
     private static final Scanner scanner = new Scanner(System.in);
     private static final VaultManager vault = new VaultManager();
 
