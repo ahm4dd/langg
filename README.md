@@ -30,7 +30,7 @@ The project consists of three specific Java files:
 
 2.  **Run the application:**
     ```bash
-    java LingoVaultApp
+    java LangApp
     ```
 ---
 *Created for the DSA Course at TIU [2025]*
