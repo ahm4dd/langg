@@ -33,4 +33,4 @@ The project consists of three specific Java files:
     java LangApp
     ```
 ---
-*Created for the DSA Course at TIU [2025]*
+*Created for the DSA Course at TIU [2025-2026]*
